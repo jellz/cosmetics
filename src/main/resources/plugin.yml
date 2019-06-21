@@ -1,0 +1,5 @@
+name: Cosmetics
+version: ${project.version}
+main: com.danielgulic.cosmetics.Cosmetics
+api-version: 1.13
+authors: [jellz]
